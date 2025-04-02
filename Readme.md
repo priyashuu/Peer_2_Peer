@@ -40,3 +40,7 @@ A minimal implementation of the Pastry Distributed Hash Table (DHT) algorithm fo
    ```bash
    cd d:\Peer_2_Peer
    ```
+Run the demo script 
+```bash
+   pyhton main.py
+```
