@@ -42,5 +42,5 @@ A minimal implementation of the Pastry Distributed Hash Table (DHT) algorithm fo
    ```
 Run the demo script 
 ```bash
-   pyhton main.py
+   python main.py
 ```
