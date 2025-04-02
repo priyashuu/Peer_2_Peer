@@ -1,4 +1,4 @@
-# Pastry DHT Implementation
+# P2P-KeyNet  Implementation
 
 A minimal implementation of the Pastry Distributed Hash Table (DHT) algorithm for peer-to-peer networks.
 
